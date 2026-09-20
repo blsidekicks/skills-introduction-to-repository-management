@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @blsidekicks
+/src/backend/database.py      @blsidekicks
+/src/backend/routers/auth.py  @blsidekicks
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @blsidekicks
